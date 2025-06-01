@@ -98,10 +98,7 @@ Contributions are welcome! If you’d like to contribute:
 4. Push to your branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Built with [yt-dlp](https://github.com/yt-dlp/yt-dlp) for YouTube audio downloading.
 - Uses [FFmpeg](https://ffmpeg.org/) for audio conversion.
-- Created by [Your Name] on June 1, 2025.
+- Created by Nischaya on June 1, 2025.

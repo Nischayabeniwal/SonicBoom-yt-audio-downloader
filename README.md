@@ -31,7 +31,7 @@ SonicBoom is a simple GUI application that allows you to download audio from You
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/Nischayabeniwal/SonicBoom-yt-audio-downloader
-   cd SonicBoom
+   cd SonicBoom-yt-audio-downloader
    ```
 2. Install the required Python package:
    ```bash
